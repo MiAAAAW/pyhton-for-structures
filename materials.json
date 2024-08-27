@@ -1,0 +1,43 @@
+{
+    "Acero A36": {
+        "modulo_E": 200000000000,
+        "densidad": 7800,
+        "resistencia_fluencia": 250000000
+    },
+  
+    "Acero 1090": {
+        "modulo_E": 247000000000,
+        "densidad": 7800,
+        "resistencia_fluencia": 841000000
+    },
+  
+    "Acero AISI 6150": {
+        "modulo_E": 210000000000,
+        "densidad": 7800,
+        "resistencia_fluencia": 412300000
+    },
+  
+    "Aleacion de Aluminio 6061-T6": {
+        "modulo_E": 68900000000,
+        "densidad": 2700,
+        "resistencia_fluencia": 55000000
+    },
+  
+    "Aleacion de Aluminio 2014-T6": {
+        "modulo_E": 72400000000,
+        "densidad": 2800,
+        "resistencia_fluencia": 414000000
+    },
+  
+    "Titanio Ti-6Al-4V": {
+        "modulo_E": 113800000000,
+        "densidad": 4430,
+        "resistencia_fluencia": 880000000
+    },
+  
+    "Titanio Grado 4": {
+        "modulo_E": 105000000000,
+        "densidad": 4510,
+        "resistencia_fluencia": 552000000
+    }
+  }
